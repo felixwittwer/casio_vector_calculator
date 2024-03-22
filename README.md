@@ -25,7 +25,8 @@ main menu with all subprograms
 3. Vectorlength
 4. Area of a triangle calculated with three given points in 3D space
 5. unit vector
-6. Versioninfo
+6. Exit
+7. Versioninfo
 
 ### 1. Vector from points
 ![vetor from points](/screenshots/vector.bmp)
@@ -33,5 +34,5 @@ main menu with all subprograms
 ### 4. Area of a triangle
 ![vetor from points](/screenshots/area.bmp)
 
-### 6. Versioninfo
+### 7. Versioninfo
 ![vetor from points](/screenshots/version.bmp)
